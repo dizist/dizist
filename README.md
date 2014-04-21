@@ -1,4 +1,0 @@
-dizist
-======
-
-dizist
